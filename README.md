@@ -2,16 +2,16 @@
   <img src="./github-profile-banner.png" alt="Ali Sultan - Senior AI/ML Engineer building production-grade GenAI systems" />
 </p>
 
+## 🤝 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ialisultan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ialisultan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
 
 ## 🚀 About Me
 
@@ -24,8 +24,6 @@ I'm a **Senior AI/ML Engineer** with 3+ years of experience in architecting and 
 - Shipping **cloud-ready AI backends** with APIs, observability, and scalability
 - Teaching and mentoring the next wave of AI engineers through university-level instruction
 
----
-
 ## 🧠 Core Strengths
 
 | Area | What I bring |
@@ -36,8 +34,6 @@ I'm a **Senior AI/ML Engineer** with 3+ years of experience in architecting and 
 | **Backend AI APIs** | FastAPI services, production endpoints, routing, validation, monitoring |
 | **Cloud & LLMOps** | AWS Bedrock, SageMaker, EC2, S3, Lambda, deployment and scaling |
 | **Applied AI Mentoring** | Curriculum design, student mentoring, practical AI project guidance |
-
----
 
 ## ⚙️ Tech Stack
 
@@ -80,8 +76,6 @@ I'm a **Senior AI/ML Engineer** with 3+ years of experience in architecting and 
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
 ## 💼 Featured Projects
 
 ### 1) Hybrid Intelligent Chatbot
@@ -113,8 +107,6 @@ Hands-on AI education designed around modern LLM engineering.
 - Guided student teams toward production-ready AI prototypes
 - Connected academic learning with industry-focused implementation
 
----
-
 ## 🏢 Experience Snapshot
 
 ### **AI Engineer** — Nerdware Tech  
@@ -132,8 +124,6 @@ Hands-on AI education designed around modern LLM engineering.
 - Designed hands-on modules on LLMs, RAG, embeddings, and NLP applications
 - Mentoring students on AI research and practical project implementation
 
----
-
 ## 📐 What makes my work different
 
 - I care about **production-readiness**, not just demos
@@ -141,8 +131,6 @@ Hands-on AI education designed around modern LLM engineering.
 - I focus on **grounded AI outputs**, observability, and scalability
 - I enjoy bridging **industry engineering** with **teaching and mentoring**
 - I like building AI systems that are both technically solid and practically useful
-
----
 
 ## 🤝 Let's Connect
 
