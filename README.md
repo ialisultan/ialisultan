@@ -2,15 +2,8 @@
   <img src="./github-profile-banner.png" alt="Ali Sultan - Senior AI/ML Engineer building production-grade GenAI systems" />
 </p>
 
-## 🤝 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ialisultan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ialisultan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+Open to collaborating on <b>LLM apps, RAG systems, AI agents, and production AI engineering</b>.
 </p>
 
 ## 🚀 About Me
@@ -141,8 +134,4 @@ Hands-on AI education designed around modern LLM engineering.
   <a href="https://github.com/ialisultan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-Open to collaborating on <b>LLM apps, RAG systems, AI agents, and production AI engineering</b>.
 </p>
